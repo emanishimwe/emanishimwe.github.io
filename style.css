@@ -1,17 +1,28 @@
 h1 {
   color: green;
 }
-header{
+.container{
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto ;
+}
+header {
   background: black;
   display: flex;
   justify-content: space-between;
-  padding: 25px;
+  padding: 10px 25px;
 }
 
-header a{
+header a {
   color: white;
 }
-header li{
+.twocolumn{
+  display: grid;
+  grid-template-columns: 50% auto;
+  grid-template-rows: 40% auto;
+
+}
+header li {
   display: inline-block;
   margin-left: 30px;
 }
@@ -19,15 +30,29 @@ header li{
 ol {
   color: blue;
 }
-h1 {
-    font-size: 40px;
+header h1{
+  margin: 0;
+}
 
-    color: white;
+h1 {
+  font-size: 40px;
+  color: white;
+
 }
+
 h2 {
-    font-size: 30px;
-    color: green;
-}
-h3 {
+  font-size: 30px;
   color: black;
 }
+
+h3 {
+  color: blue;
+}
+
+/* body {
+  background: rgb();
+}
+
+#aboutbackground {
+  background: ;
+} */
