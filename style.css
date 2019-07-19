@@ -26,6 +26,12 @@ header a {
 }
 .picturesOfme {
   width: 300px;
+  margin: 5px 100px 150px 310px;
+}
+.picOfme {
+}
+.homepage {
+  text-align: center;
 }
 
 header li {
@@ -78,7 +84,7 @@ h3 {
   color: blue;
 }
 
-/* body {
+ body {
   background: rgb();
 }
 
