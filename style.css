@@ -24,6 +24,9 @@ header a {
   grid-template-columns: 50% auto;
   grid-template-rows: 40% auto;
 }
+.picturesOfme {
+  width: 300px;
+}
 
 header li {
   display: inline-block;
