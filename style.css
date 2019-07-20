@@ -87,8 +87,20 @@ h3 {
 
  body {
   background: rgb(54, 106, 172);
-}
+}ß
 
 aboutbackground {
   background: ;
+}
+.linkpage {
+background-color: yellow;
+margin: 10px 200px auto 200px;
+}
+.classmates {
+  text-align: center;
+}
+.carrer {
+  background-color: yellow;
+  margin-left: 70px;
+  margin-right: 100px;
 }
