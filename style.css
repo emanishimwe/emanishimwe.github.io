@@ -63,10 +63,12 @@ p {
 }
 
 ol {
-  color: blue;
   font-size: 22px;
 }
 
+.world {
+  color: white
+}
 header h1 {
   margin: 0;
 }
@@ -82,7 +84,7 @@ h2 {
 }
 
 h3 {
-  color: blue;
+  color: white;
 }
 
  body {
@@ -98,13 +100,13 @@ margin: 10px 200px auto 200px;
 }
 .classmates {
   text-align: center;
-  padding: 20px 10px 20px 10px;
+  padding: 20px;
 }
 .carrer {
   background-color: yellow;
   margin-left: 70px;
   margin-right: 100px;
 }
-.box{
-  padding: 20px 10px 20px 10px;
+.box {
+  padding: 20px;
 }
