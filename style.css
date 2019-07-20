@@ -64,6 +64,7 @@ p {
 
 ol {
   color: blue;
+  font-size: 22px;
 }
 
 header h1 {
@@ -85,9 +86,9 @@ h3 {
 }
 
  body {
-  background: rgb();
+  background: rgb(54, 106, 172);
 }
 
-#aboutbackground {
+aboutbackground {
   background: ;
-} */
+}
