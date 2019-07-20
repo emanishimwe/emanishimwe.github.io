@@ -98,9 +98,13 @@ margin: 10px 200px auto 200px;
 }
 .classmates {
   text-align: center;
+  padding: 20px 10px 20px 10px;
 }
 .carrer {
   background-color: yellow;
   margin-left: 70px;
   margin-right: 100px;
+}
+.box{
+  padding: 20px 10px 20px 10px;
 }
